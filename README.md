@@ -10,7 +10,7 @@ package main
 
 import (
 	"fmt"
-	sshkeymanager "github.com/rs-pro/ssh-key-manager"
+	sshkeymanager "github.com/mksvdmtr/ssh-key-manager"
 	"log"
 	)
 
