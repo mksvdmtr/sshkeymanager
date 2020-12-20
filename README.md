@@ -1,6 +1,6 @@
 # ssh-key-manager
 ```
-$ go get github.com/rs-pro/ssh-key-manager
+$ go get github.com/mksvdmtr/ssh-key-manager
 ```
 
 ## Examples:
